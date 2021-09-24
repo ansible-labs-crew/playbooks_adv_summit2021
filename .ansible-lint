@@ -1,0 +1,3 @@
+skip_list:
+  - command-instead-of-module  # Using command rather than module
+  - package-latest  # Package installs should not use latest
